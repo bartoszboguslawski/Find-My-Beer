@@ -9,8 +9,8 @@ struct ColorTheme {
     
     let background = Color("Background")
     let navigation = Color("Navigation")
-    let secondary = Color("TabText")
-    let text = Color("Text")
+    let secondary = Color("Secondary")
+    let text = Color("Primary")
     
     let gradient1 = Color("Gradient1")
     let gradient2 = Color("Gradient2")

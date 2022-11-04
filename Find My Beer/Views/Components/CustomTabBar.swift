@@ -24,7 +24,7 @@ struct CustomTabBar: View {
                     if selectedTab == tab {
                         Capsule()
                             .frame(width: 30,height: 3)
-                            .foregroundColor(Color("TabText"))
+                            .foregroundColor(Color.theme.secondary)
                             .matchedGeometryEffect(id: "filter", in: animation)
                     } else {
                         Capsule()
