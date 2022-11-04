@@ -1,10 +1,3 @@
-//
-//  Find_My_BeerApp.swift
-//  Find My Beer
-//
-//  Created by Bartosz Bogusławski on 01/11/2022.
-//
-
 import SwiftUI
 
 @main
